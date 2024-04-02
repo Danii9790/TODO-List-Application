@@ -1,9 +1,10 @@
 {
-  "name": "todo-list-application",
+  "name": "danii9790-todo-list-application",
   "version": "1.0.0",
   "description": "TODO List Application | Project 4 | TypeScript, Node.js, Inquirer &amp; Chalk",
   "main": "index.js",
   "type": "module",
+  "bin": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
